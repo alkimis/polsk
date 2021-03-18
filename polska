@@ -1,5 +1,3 @@
-#EXTM3U 
-
 #EXTM3U
 #EXTINF:-1 tvg-id="4FUNTV.pl" tvg-name="4FUN TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" tvg-url="" group-title="Music",4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
