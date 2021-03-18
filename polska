@@ -1,85 +1,383 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4FUNTV.pl" tvg-name="4FUN TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" tvg-url="" group-title="Music",4FUN TV
-https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-name="Bloomberg TV EMEA Live Event" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://1.bp.blogspot.com/-PbJbgwulmgg/XlcvWvE1krI/AAAAAAAArqk/GybN3PTg-tAskuSoJQe3hfT2CvPXdA1WwCLcBGAsYHQ/s320/Bloomberg%2BTelevision.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-name="Bloomberg TV Europe" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/UuO7vxr.jpg" tvg-url="" group-title="Business",Bloomberg TV Europe (720p)
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="dlaCiebieTV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/N318K6a.jpg" tvg-url="" group-title="",dlaCiebieTV (720p)
-http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
-#EXTINF:-1 tvg-id="WTK PL" tvg-name="Echo24" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" tvg-url="" group-title="",Echo24 (720p)
-https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
-#EXTINF:-1 tvg-id="EzoTV.pl" tvg-name="Ezo TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" tvg-url="" group-title="",Ezo TV (576p)
-http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/kgE2maL.jpg" tvg-url="" group-title="",Sfera TV (480p)
-http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaKujawy.pl" tvg-name="Telewizja Kujawy" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" tvg-url="" group-title="",Telewizja Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 tvg-id="TelewizjaPograniczeGlubczyce.pl" tvg-name="Telewizja Pogranicze (Głubczyce)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" tvg-url="" group-title="",Telewizja Pogranicze (Głubczyce) (720p)
-http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TelewizjaRepublika.pl" tvg-name="Telewizja Republika" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VaiHvZ3.jpg" tvg-url="" group-title="",Telewizja Republika
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
-#EXTINF:-1 tvg-id="TV Republika PL" tvg-name="TV Republika PL" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ImFmWk5.png" tvg-url="" group-title="",Telewizja Republika (1080p)
-https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
-#EXTINF:-1 tvg-id="TelewizjaTorun.pl" tvg-name="Telewizja Toruń" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/GdbkqCM.png" tvg-url="" group-title="",Telewizja Toruń (1080p)
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TRUSOTVElblag.pl" tvg-name="TRUSO.TV (Elbląg)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Ic07Biz.jpg" tvg-url="" group-title="",TRUSO.TV (Elbląg) (576p)
-http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRegionalna.pl" tvg-name="TV Regionalna" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" tvg-url="" group-title="",TV Regionalna
-https://tvreg.klemit.net/regionalna/stream/index.m3u8
-#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" tvg-url="" group-title="",TV Trwam
-https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
-#EXTINF:-1 tvg-id="TVP3Bialystok.pl" tvg-name="TVP 3 Białystok" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zPSpvss.jpg" tvg-url="" group-title="",TVP 3 Białystok
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" tvg-name="TVP 3 Bydgoszcz" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" tvg-url="" group-title="",TVP 3 Bydgoszcz
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
-#EXTINF:-1 tvg-id="TVP3Gdansk.pl" tvg-name="TVP 3 Gdańsk" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" tvg-url="" group-title="",TVP 3 Gdańsk
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1 tvg-id="TVP3GorzowWielkopolski.pl" tvg-name="TVP 3 Gorzów Wielkopolski" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" tvg-url="" group-title="",TVP 3 Gorzów Wielkopolski
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 tvg-id="TVP3Katowice.pl" tvg-name="TVP 3 Katowice" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/burRKHa.jpg" tvg-url="" group-title="",TVP 3 Katowice
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 tvg-id="TVP3Kielce.pl" tvg-name="TVP 3 Kielce" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/YcQxM94.jpg" tvg-url="" group-title="",TVP 3 Kielce
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 tvg-id="TVP3Krakow.pl" tvg-name="TVP 3 Kraków" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" tvg-url="" group-title="",TVP 3 Kraków
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 tvg-id="TVP3Lublin.pl" tvg-name="TVP 3 Lublin" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" tvg-url="" group-title="",TVP 3 Lublin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 tvg-id="TVP3Olsztyn.pl" tvg-name="TVP 3 Olsztyn" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" tvg-url="" group-title="",TVP 3 Olsztyn
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
-#EXTINF:-1 tvg-id="TVP3Opole.pl" tvg-name="TVP 3 Opole" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" tvg-url="" group-title="",TVP 3 Opole
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
-#EXTINF:-1 tvg-id="TVP3Poznan.pl" tvg-name="TVP 3 Poznań" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" tvg-url="" group-title="",TVP 3 Poznań
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
-#EXTINF:-1 tvg-id="TVP3Rzeszow.pl" tvg-name="TVP 3 Rzeszów" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" tvg-url="" group-title="",TVP 3 Rzeszów
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
-#EXTINF:-1 tvg-id="TVP3Szczecin.pl" tvg-name="TVP 3 Szczecin" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" tvg-url="" group-title="",TVP 3 Szczecin
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-url="" group-title="",TVP 3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
-#EXTINF:-1 tvg-id="TVP3Wroclaw.pl" tvg-name="TVP 3 Wrocław" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/0em2QIh.jpg" tvg-url="" group-title="",TVP 3 Wrocław
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
-#EXTINF:-1 tvg-id="TVP3Lodz.pl" tvg-name="TVP 3 Łódź" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" tvg-url="" group-title="",TVP 3 Łódź
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
-#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" tvg-url="" group-title="",TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
-#EXTINF:-1 tvg-id="TVPParlament.pl" tvg-name="TVP Parlament" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-url="" group-title="",TVP Parlament
-http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
-#EXTINF:-1 tvg-id="TVTTelewizjaregionalnaRybnik.pl" tvg-name="TVT Telewizja regionalna (Rybnik)" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/pJKndl0.jpg" tvg-url="" group-title="",TVT Telewizja regionalna (Rybnik)
-http://176.107.129.219/media/tvt/index.m3u8
-#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-url="" group-title="",TVT Zgorzelec
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ec8DxWx.jpg" tvg-url="" group-title="",Twoja TV
-http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1,TVP 1 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5227
+#EXTINF:-1,TVP 1 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7271
+#EXTINF:-1,TVP 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5226
+#EXTINF:-1,TVP 2 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7270
+#EXTINF:-1,TVP 3 Warszawa VIP PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9845
+#EXTINF:-1,TVP FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9893
+#EXTINF:-1,TVP Polonia FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9843
+#EXTINF:-1,Polsat HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7286
+#EXTINF:-1,Polsat 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7285
+#EXTINF:-1,Polsat 2 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5255
+#EXTINF:-1,TVN FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5229
+#EXTINF:-1,TVN HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7274
+#EXTINF:-1,TV 4 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7278
+#EXTINF:-1,TV6 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9822
+#EXTINF:-1,TVN 7 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7276
+#EXTINF:-1,TVP Info FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7269
+#EXTINF:-1,Nowa TV FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9850
+#EXTINF:-1,Polsat News HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7282
+#EXTINF:-1,Polsat News 2 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5250
+#EXTINF:-1,TVN 24 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5224
+#EXTINF:-1,TV Puls FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7277
+#EXTINF:-1,TV Puls HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9895
+#EXTINF:-1,Puls 2 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9899
+#EXTINF:-1,TVS PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9890
+#EXTINF:-1,Trwam TV HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9884
+#EXTINF:-1,------- Sports -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683432
+#EXTINF:-1,Canal+ Sport 1 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7300
+#EXTINF:-1,Canal+ Sport 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7304
+#EXTINF:-1,Canal+ Sport 2 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7299
+#EXTINF:-1,Eleven Sports 1 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/524331
+#EXTINF:-1,Eleven Sports 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/99803
+#EXTINF:-1,Eleven Sports 3 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/99930
+#EXTINF:-1,Eleven Sports 4 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/167186
+#EXTINF:-1,nSport Plus FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5238
+#EXTINF:-1,Eurosport 1 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9878
+#EXTINF:-1,Eurosport 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9877
+#EXTINF:-1,Fight Box FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5239
+#EXTINF:-1,Extreme Sports FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5240
+#EXTINF:-1,Golf Channel FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9873
+#EXTINF:-1,Motorwizja FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9904
+#EXTINF:-1,Motowizja PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9851
+#EXTINF:-1,Polsat Sport FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/625236
+#EXTINF:-1,Polsat Sport Premium 1 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/53159
+#EXTINF:-1,Polsat Sport Premium 2 HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/531582
+#EXTINF:-1,Polsat Sport Premium PPV 3 FHD
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/620683
+#EXTINF:-1,Polsat Sport Premium PPV 4 FHD
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/620682
+#EXTINF:-1,Polsat Sport Premium PPV 6 FHD
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/620680
+#EXTINF:-1,Polsat Sport Extra FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/625232
+#EXTINF:-1,Polsat Sport Extra HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/625230
+#EXTINF:-1,Polsat Sport Fight FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5247
+#EXTINF:-1,Polsat Sport News FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9869
+#EXTINF:-1,Super Polsat FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9897
+#EXTINF:-1,TVP Sport FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5225
+#EXTINF:-1,TVP Sports PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7267
+#EXTINF:-1,Sportklub HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9819
+#EXTINF:-1,KSW PPV FHD [Match Time] PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/624946
+#EXTINF:-1,------- Movies & Series -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683433
+#EXTINF:-1,HBO 1 FHD [Multi-Audio] PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5223
+#EXTINF:-1,HBO HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7293
+#EXTINF:-1,HBO 2 FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7292
+#EXTINF:-1,HBO 2 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5222
+#EXTINF:-1,HBO 3 FHD [Multi-Audio] PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7291
+#EXTINF:-1,Cinemax FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5246
+#EXTINF:-1,Cinemax 2 FHD VIP PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5245
+#EXTINF:-1,Canal+ Family HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7305
+#EXTINF:-1,Canal+ Premium FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7302
+#EXTINF:-1,Canal+ Film FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5243
+#EXTINF:-1,Canal+ Film HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7303
+#EXTINF:-1,Canal+ Seriale HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9913
+#EXTINF:-1,Film Box Extra HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9876
+#EXTINF:-1,Film Box Premium FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5230
+#EXTINF:-1,Film Box Premium HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7297
+#EXTINF:-1,Film Box Family PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5231
+#EXTINF:-1,Filmbox Action PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7296
+#EXTINF:-1,Film Box Arthouse PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5232
+#EXTINF:-1,Polsat Film FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5253
+#EXTINF:-1,Polsat Film HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7283
+#EXTINF:-1,Kino Polska PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5237
+#EXTINF:-1,AMC PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/641401
+#EXTINF:-1,TNT HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9866
+#EXTINF:-1,VOD 205 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9889
+#EXTINF:-1,VOD 206 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9888
+#EXTINF:-1,VOD 207 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9887
+#EXTINF:-1,VOD 208 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9886
+#EXTINF:-1,TVP Seriale PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7268
+#EXTINF:-1,TVP Historia PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9836
+#EXTINF:-1,TVP Kultura PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9892
+#EXTINF:-1,TVN Fabula FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7275
+#EXTINF:-1,TVP Rozrywka PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9891
+#EXTINF:-1,Fox FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9874
+#EXTINF:-1,Fox Comedy HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9875
+#EXTINF:-1,Comedy Central FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5242
+#EXTINF:-1,Comedy Central Family HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9834
+#EXTINF:-1,13 ulica FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5260
+#EXTINF:-1,Adventure FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9917
+#EXTINF:-1,AXN FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7306
+#EXTINF:-1,AXN Spin FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5220
+#EXTINF:-1,AXN Black PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9915
+#EXTINF:-1,AXN White PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9914
+#EXTINF:-1,BBC First FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9861
+#EXTINF:-1,CBS Europa FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9881
+#EXTINF:-1,CBS Europa HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9912
+#EXTINF:-1,Ale Kino FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5259
+#EXTINF:-1,ATM Rozrywka PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9916
+#EXTINF:-1,Lifetime FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9871
+#EXTINF:-1,Paramount Channel FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9829
+#EXTINF:-1,Romance TV FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9826
+#EXTINF:-1,SciFi Universal PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9868
+#EXTINF:-1,Stopklatka TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9898
+#EXTINF:-1,Sundance TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9867
+#EXTINF:-1,Zoom TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9839
+#EXTINF:-1,------- Documentary -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683434
+#EXTINF:-1,Canal+ Discovery FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9835
+#EXTINF:-1,Discovery FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7298
+#EXTINF:-1,Discovery Science FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5234
+#EXTINF:-1,Discovery Life FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5235
+#EXTINF:-1,Discovery Historia PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5236
+#EXTINF:-1,Crime and Investigation PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5221
+#EXTINF:-1,Animal Planet FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5257
+#EXTINF:-1,Animal Planet HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7307
+#EXTINF:-1,National Geographic FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7288
+#EXTINF:-1,Nat Geo Wild FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7289
+#EXTINF:-1,Nat Geo People FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9883
+#EXTINF:-1,BBC Earth HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9862
+#EXTINF:-1,Da Vinci Learning PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5218
+#EXTINF:-1,DTX FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9824
+#EXTINF:-1,CBS Reality FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9911
+#EXTINF:-1,Food Network FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9815
+#EXTINF:-1,HGTV HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9906
+#EXTINF:-1,Fokus TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9853
+#EXTINF:-1,Metro PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9818
+#EXTINF:-1,Domo + HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/648339
+#EXTINF:-1,Planete+ HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9903
+#EXTINF:-1,Polsat Viasat Explore FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9900
+#EXTINF:-1,Polsat Viasat History FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9811
+#EXTINF:-1,Polsat Viasat Nature PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9810
+#EXTINF:-1,Polsat Doku FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9813
+#EXTINF:-1,Polsat Play FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5252
+#EXTINF:-1,Polsat Play HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7281
+#EXTINF:-1,Kuchnia+ FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9905
+#EXTINF:-1,TVN Turbo FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5228
+#EXTINF:-1,TVN Turbo HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7272
+#EXTINF:-1,TV Republika PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5249
+#EXTINF:-1,WP PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9840
+#EXTINF:-1,------- Entertainment -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683435
+#EXTINF:-1,BBC Brit FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/648338
+#EXTINF:-1,Active Family PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9817
+#EXTINF:-1,E! Entertainment FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9879
+#EXTINF:-1,TLC FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7279
+#EXTINF:-1,Polsat Cafe FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5254
+#EXTINF:-1,Polsat Cafe FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7284
+#EXTINF:-1,Polsat Games FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/628998
+#EXTINF:-1,TVN Style HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/7273
+#EXTINF:-1,TVN Style FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/5219
+#EXTINF:-1,TTV FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9808
+#EXTINF:-1,TTV HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683438
+#EXTINF:-1,TO!TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9809
+#EXTINF:-1,------- Children -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683436
+#EXTINF:-1,Baby TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/15950
+#EXTINF:-1,Boomerang HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9860
+#EXTINF:-1,Cartoon Network FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9882
+#EXTINF:-1,Disney Channel HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9918
+#EXTINF:-1,Disney Junior PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9880
+#EXTINF:-1,Disney XD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9910
+#EXTINF:-1,MiniMini FHD VIP PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9870
+#EXTINF:-1,Nick Jr Polska PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9831
+#EXTINF:-1,Nickelodeon PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9830
+#EXTINF:-1,Polsat Jim Jam PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9848
+#EXTINF:-1,TVP ABC PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9894
+#EXTINF:-1,TeleToon+ FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9896
+#EXTINF:-1,------- Music -------
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/683437
+#EXTINF:-1,MTV Polska FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9838
+#EXTINF:-1,MTV Polska HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9832
+#EXTINF:-1,MTV Live FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9833
+#EXTINF:-1,VH1 PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9828
+#EXTINF:-1,VH1 Polska PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9827
+#EXTINF:-1,4Fun TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9825
+#EXTINF:-1,4Fun Dance PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9864
+#EXTINF:-1,4Fun Gold Hits PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9863
+#EXTINF:-1,Vox Music TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9885
+#EXTINF:-1,Nuta TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9849
+#EXTINF:-1,Eska TV HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9807
+#EXTINF:-1,Eska TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9857
+#EXTINF:-1,Eska Rock TV HD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9858
+#EXTINF:-1,Eska Rock TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9852
+#EXTINF:-1,Disco Polo Music PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9816
+#EXTINF:-1,Polo TV FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9814
+#EXTINF:-1,Polo Party TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9902
+#EXTINF:-1,Polsat Music FHD PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9847
+#EXTINF:-1,Power TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9846
+#EXTINF:-1,Stars TV PL
+http://mag.seiptv.itv.world:8080/8lig8z0dvn/4xpor0v65j/9820
