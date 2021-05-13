@@ -1,355 +1,89 @@
 #EXTM3U
-#EXTINF:-1,PL: TVP HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95752
-#EXTINF:-1,PL: TVP 1 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95753
-#EXTINF:-1,PL: TVP 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95754
-#EXTINF:-1,PL: TVP 3
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95755
-#EXTINF:-1,PL: TV4 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95756
-#EXTINF:-1,PL: TELE 5
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95757
-#EXTINF:-1,PL: TV6
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95758
-#EXTINF:-1,PL: POLONIA 1
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95759
-#EXTINF:-1,PL: POLSAT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95760
-#EXTINF:-1,PL: POLSAT 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95761
-#EXTINF:-1,PL: SUPER POLSAT
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95762
-#EXTINF:-1,PL: TVN HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95763
-#EXTINF:-1,PL: TVN 7 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95764
-#EXTINF:-1,PL: TVS
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95765
-#EXTINF:-1,PL: TTV HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95766
-#EXTINF:-1,PL: TV PULS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95767
-#EXTINF:-1,PL: ATM ROZRYWKA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95768
-#EXTINF:-1,PL: POLSAT RODZINA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95769
-#EXTINF:-1,PL: HBO HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95784
-#EXTINF:-1,PL: HBO 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95785
-#EXTINF:-1,PL: HBO 3 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95786
-#EXTINF:-1,PL: VOD 205
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95787
-#EXTINF:-1,PL: VOD 206
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95788
-#EXTINF:-1,PL: VOD 207
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95789
-#EXTINF:-1,PL: VOD 208
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95790
-#EXTINF:-1,PL:  KINO POLSKA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95792
-#EXTINF:-1,PL: TVP POLONIA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95793
+#EXTINF:-1,PL: Super Polsat FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150838
+#EXTINF:-1,PL: SUPER POLSAT HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150839
+#EXTINF:-1,PL: AXN Black
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150858
+#EXTINF:-1,PL: AXN White
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150859
+#EXTINF:-1,PL: Boomerang HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150860
+#EXTINF:-1,PL: Polsat 2 HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150870
+#EXTINF:-1,PL: Polsat Film HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150871
+#EXTINF:-1,PL: POLSAT FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150872
+#EXTINF:-1,PL: Polsat Jim Jam
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150873
+#EXTINF:-1,PL: Polsat Play HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150874
+#EXTINF:-1,PL: Fox Comedy HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150875
 #EXTINF:-1,PL: FOX HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95794
-#EXTINF:-1,PL: FOX COMEDY HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95795
-#EXTINF:-1,PL: AXN HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95796
-#EXTINF:-1,PL: AXN
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95797
-#EXTINF:-1,PL: AXN WHITE
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95798
-#EXTINF:-1,PL: AXN BLACK
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95799
-#EXTINF:-1,PL: AXN SPIN HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95800
-#EXTINF:-1,PL: SCIFI HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95801
-#EXTINF:-1,PL: 13 ULICA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95802
-#EXTINF:-1,PL: E! ENTERTAINMENT
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95803
-#EXTINF:-1,PL: TVP SERIALE
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95804
-#EXTINF:-1,PL: CBS EUROPA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95805
-#EXTINF:-1,PL: POLSAT ROMANS
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95806
-#EXTINF:-1,PL: COMEDY CENTRAL HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95807
-#EXTINF:-1,PL: TLC HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95808
-#EXTINF:-1,PL: PARAMOUNT CHANNEL HD.
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95809
-#EXTINF:-1,PL: AMC
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95810
-#EXTINF:-1,PL: TVP KULTURA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95811
-#EXTINF:-1,PL: TRAVEL CHANNEL HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95812
-#EXTINF:-1,PL: TVN FABULA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95813
-#EXTINF:-1,PL: TVN TURBO HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95814
-#EXTINF:-1,PL: ADVENTURE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95815
-#EXTINF:-1,PL: DA VINCI
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95816
-#EXTINF:-1,PL: FOOD NETWORK HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95817
-#EXTINF:-1,PL: DOMO   HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95818
-#EXTINF:-1,PL: DTX
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95819
-#EXTINF:-1,PL: FOKUS TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95821
-#EXTINF:-1,PL: KUCHNIA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95822
-#EXTINF:-1,PL: MOTOWIZJA TV HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95823
-#EXTINF:-1,PL: NUTA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95824
-#EXTINF:-1,PL: POWER TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95825
-#EXTINF:-1,PL: PULS 2
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95826
-#EXTINF:-1,PL: ROMANCE TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95827
-#EXTINF:-1,PL: WP
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95828
-#EXTINF:-1,PL: ACTIVE FAMILY
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95829
-#EXTINF:-1,PL: BBC BRIT
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95830
-#EXTINF:-1,PL: BBC LIFESTYLE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95831
-#EXTINF:-1,PL: BBC FIRST HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95832
-#EXTINF:-1,PL: COMEDY CENTRAL FAMILY
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95833
-#EXTINF:-1,PL: BABY TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95835
-#EXTINF:-1,PL: POLSAT JIM JAM
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95836
-#EXTINF:-1,PL: BOOMERANG HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95837
-#EXTINF:-1,PL: CARTOON NETWORK HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95838
-#EXTINF:-1,PL: DISNEY XD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95839
-#EXTINF:-1,PL: DISNEY JUNIOR
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95840
-#EXTINF:-1,PL: DISNEY CHANNEL HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95841
-#EXTINF:-1,PL: NICK JR
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95842
-#EXTINF:-1,PL: NICKELODEON
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95843
-#EXTINF:-1,PL: NICKTOONS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95844
-#EXTINF:-1,PL: TELETOON  HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95845
-#EXTINF:-1,PL: MINIMINI  HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95846
-#EXTINF:-1,PL: BBC CBEEBIES
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95847
-#EXTINF:-1,PL: POLSAT GAMES
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95848
-#EXTINF:-1,PL: TBN POLAND
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95849
-#EXTINF:-1,PL: MTV LIVE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95851
-#EXTINF:-1,PL: VH1
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95852
-#EXTINF:-1,PL: TVP ROZRYWKA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95853
-#EXTINF:-1,PL: MTV ROCKS
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95854
-#EXTINF:-1,PL: KINO POLSKA MUZYKA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95855
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150876
+#EXTINF:-1,PL: HBO 2 HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150877
+#EXTINF:-1,PL: HBO HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150878
+#EXTINF:-1,PL: KINO POLSKA HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150879
+#EXTINF:-1,PL: MINIMINI+ HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150880
 #EXTINF:-1,PL: MTV POLSKA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95856
-#EXTINF:-1,PL: MTV MUSIC
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95857
-#EXTINF:-1,PL: ALE KINO  HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95858
-#EXTINF:-1,PL: TO!TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95859
-#EXTINF:-1,PL: TVP ABC
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95860
-#EXTINF:-1,PL: POLSAT CAFE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95861
-#EXTINF:-1,PL: POLSAT PLAY HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95862
-#EXTINF:-1,PL: POLO TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95863
-#EXTINF:-1,PL: METRO
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95864
-#EXTINF:-1,PL: ZOOM TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95865
-#EXTINF:-1,PL: NOVELA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95866
-#EXTINF:-1,PL: SUNDANCE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95867
-#EXTINF:-1,PL: TVN STYLE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95868
-#EXTINF:-1,PL: LIFETIME HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95869
-#EXTINF:-1,PL: HGTV HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95870
-#EXTINF:-1,PL: NOWA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95871
-#EXTINF:-1,PL: TV OKAZJE
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95872
-#EXTINF:-1,PL: CBS REALITY
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95873
-#EXTINF:-1,PL: EPIC DRAMA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95874
-#EXTINF:-1,PL: TNT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95875
-#EXTINF:-1,PL: POLSAT FILM HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95876
-#EXTINF:-1,PL: KINO TV HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95877
-#EXTINF:-1,PL: STOPKLATKA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95878
-#EXTINF:-1,PL: STARS.TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95879
-#EXTINF:-1,PL: 4FUN.TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95880
-#EXTINF:-1,PL: POLSAT MUSIC HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95881
-#EXTINF:-1,PL: VOX MUSIC TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95882
-#EXTINF:-1,PL: ESKA ROCK TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95883
-#EXTINF:-1,PL: ESKA TV EXTRA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95884
-#EXTINF:-1,PL: NAT GEO PEOPLE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95886
-#EXTINF:-1,PL: ANIMAL PLANET HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95887
-#EXTINF:-1,PL: PLANETE   HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95888
-#EXTINF:-1,PL: CI POLSAT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95889
-#EXTINF:-1,PL: HISTORY HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95890
-#EXTINF:-1,PL: ID HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95891
-#EXTINF:-1,PL: TVP HISTORIA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95892
-#EXTINF:-1,PL: BBC EARTH HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95893
-#EXTINF:-1,PL: H2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95894
-#EXTINF:-1,PL: POLSAT DOKU HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95895
-#EXTINF:-1,PL: DISCOVERY SCIENCE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95896
-#EXTINF:-1,PL: DISCOVERY HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95897
-#EXTINF:-1,PL: DISCOVERY LIFE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95898
-#EXTINF:-1,PL: DISCOVERY HISTORIA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95899
-#EXTINF:-1,PL: DISCO POLO MUSIC
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95900
-#EXTINF:-1,PL: 4FUN GOLD HITS
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95901
-#EXTINF:-1,PL: 4FUN DANCE
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95902
-#EXTINF:-1,PL: POLSAT VIASAT EXPLORE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95903
-#EXTINF:-1,PL: NAT GEO WILD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95904
-#EXTINF:-1,PL: WATER PLANET
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95905
-#EXTINF:-1,PL: POLSAT VIASAT HISTORY HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95906
-#EXTINF:-1,PL: POLSAT VIASAT NATURE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95907
-#EXTINF:-1,PL: NATIONAL GEO
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95908
-#EXTINF:-1,PL: CRIME AND INVESTIGATION HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95909
-#EXTINF:-1,PL: POLSAT SPORT EXTRA HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95911
-#EXTINF:-1,PL: POLSAT SPORT FIGHT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95912
-#EXTINF:-1,PL: CANAL  SPORT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95913
-#EXTINF:-1,PL: CANAL  SPORT 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95914
-#EXTINF:-1,PL: CANAL  SPORT 3 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95915
-#EXTINF:-1,PL: CANAL  SPORT 4 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95916
-#EXTINF:-1,PL: NSPORT
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95917
-#EXTINF:-1,PL: SPORT KLUB HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95918
-#EXTINF:-1,PL: EUROSPORT 1 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95919
-#EXTINF:-1,PL: EUROSPORT 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95920
-#EXTINF:-1,PL: POLSAT SPORT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95921
-#EXTINF:-1,PL: EXTREME SPORTS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95922
-#EXTINF:-1,PL: POLSAT SPORT PREM. 1 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95923
-#EXTINF:-1,PL: POLSAT SPORT PREM. 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95924
-#EXTINF:-1,PL: POLSAT SPORT PREM. 3 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95925
-#EXTINF:-1,PL: POLSAT SPORT PREM. 4 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95926
-#EXTINF:-1,PL: POLSAT SPORT PREM. 5 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95927
-#EXTINF:-1,PL: POLSAT SPORT PREM. 6 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95928
-#EXTINF:-1,PL: ELEVENSPORT 1 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95929
-#EXTINF:-1,PL: ELEVENSPORT 2 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95930
-#EXTINF:-1,PL: ELEVENSPORT 3 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95931
-#EXTINF:-1,PL: ELEVENSPORT 4 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95932
-#EXTINF:-1,PL: GOLF CHANNEL
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95933
-#EXTINF:-1,PL: FIGHTBOX HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95934
-#EXTINF:-1,PL: FIGHTKLUB HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95935
-#EXTINF:-1,PL: PPV KSW FIGHTS (LIVE ON MATCHES:
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95936
-#EXTINF:-1,PL: TVP SPORT HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95937
-#EXTINF:-1,PL: POLSAT SPORT NEWS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95938
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150881
+#EXTINF:-1,PL: CBS Reality HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150882
+#EXTINF:-1,PL: COMEDY CENTRAL FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150883
+#EXTINF:-1,PL: Discovery HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150884
+#EXTINF:-1,PL: Discovery Life
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150885
+#EXTINF:-1,PL: Nat Geo Wild HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150886
+#EXTINF:-1,PL: TTV HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150887
+#EXTINF:-1,PL: TVN Turbo HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150888
+#EXTINF:-1,PL: TVN Style HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150889
+#EXTINF:-1,PL: TV4 HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150890
+#EXTINF:-1,PL: Polsat Cafe HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150891
+#EXTINF:-1,PL: TV Puls HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150892
+#EXTINF:-1,PL: TV6 Polska
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150893
+#EXTINF:-1,PL: TVN FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150894
 #EXTINF:-1,PL: TVN 24 HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95940
-#EXTINF:-1,PL: TVN24 BIS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95941
-#EXTINF:-1,PL: POLSAT NEWS HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95942
-#EXTINF:-1,PL: POLSAT NEWS 2
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95943
-#EXTINF:-1,PL: SUPERSTACJA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95944
-#EXTINF:-1,PL: TV REPUBLIKA
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95945
-#EXTINF:-1,PL: WPOLSCE.PL
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95946
-#EXTINF:-1,PL: ESKA TV
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95947
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150895
+#EXTINF:-1,PL: TVP ABC
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150896
 #EXTINF:-1,PL: TVP INFO HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95948
-#EXTINF:-1,PL: STUDIOMED TV HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/95949
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150897
+#EXTINF:-1,PL: TVP Kultura
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150898
+#EXTINF:-1,PL: Disney Channel HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150899
+#EXTINF:-1,PL: Disney XD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150900
+#EXTINF:-1,PL: TVP SERIALE
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150901
+#EXTINF:-1,PL: TVP 2 FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150902
+#EXTINF:-1,PL: TVP 3
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150903
+#EXTINF:-1,PL: Water Planet
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150904
+#EXTINF:-1,PL: DTX HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150905
+#EXTINF:-1,PL: E! Entertainment HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150906
+#EXTINF:-1,PL: TTV FHD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150907
+#EXTINF:-1,PL: TVP HD
+http://m.mela.club:80/WjD1SJT5P1/9yQO3qQV49/150908
