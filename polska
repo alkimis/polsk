@@ -1,563 +1,401 @@
 #EXTM3U
-#EXTINF:-1,TVN FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/839
-#EXTINF:-1,TVN 7 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/890
-#EXTINF:-1,Polsat 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10448
-#EXTINF:-1,Polsat 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6430
-#EXTINF:-1,TV4 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/894
-#EXTINF:-1,TV 4 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/869
-#EXTINF:-1,TV 4 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10430
-#EXTINF:-1,TVP 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/868
-#EXTINF:-1,TVP 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/867
-#EXTINF:-1,HBO 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/11099
-#EXTINF:-1,HBO 1 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/856
-#EXTINF:-1,HBO 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/922
-#EXTINF:-1,HBO 2 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6889
-#EXTINF:-1,HBO 3 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/921
-#EXTINF:-1,Canal+ PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/8429
-#EXTINF:-1,Canal+ +1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/949
-#EXTINF:-1,Canal+ Film FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/952
-#EXTINF:-1,CANAL+ FAMILY FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/953
-#EXTINF:-1,CANAL+ FAMILY HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12321
-#EXTINF:-1,Canal+ Seriale FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/951
-#EXTINF:-1,Canal+ Seriale HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12322
-#EXTINF:-1,Polsat Film FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/870
-#EXTINF:-1,AXN FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10482
-#EXTINF:-1,AXN HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/957
-#EXTINF:-1,AXN Black PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/956
-#EXTINF:-1,AXN White PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/954
-#EXTINF:-1,AXN Spin FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/955
-#EXTINF:-1,AXN Spin PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6875
-#EXTINF:-1,FOX FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10462
-#EXTINF:-1,FOX PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10464
-#EXTINF:-1,FOX Comedy FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10463
-#EXTINF:-1,Fox Comedy PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4551
-#EXTINF:-1,Filmbox Action HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/927
-#EXTINF:-1,Filmbox Action PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/926
-#EXTINF:-1,FilmBox Arthouse PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/925
-#EXTINF:-1,Filmbox Extra FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/871
-#EXTINF:-1,Filmbox Extra PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10466
-#EXTINF:-1,Filmbox Family PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/924
-#EXTINF:-1,Filmbox Premium FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/923
-#EXTINF:-1,CineMax 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/941
-#EXTINF:-1,CineMax 1 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6872
-#EXTINF:-1,Cinemax 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4557
-#EXTINF:-1,CBS Europe HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/943
-#EXTINF:-1,CBS Europa FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/863
-#EXTINF:-1,CBS Reality PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/942
-#EXTINF:-1,13 Ulica FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/865
-#EXTINF:-1,13 Ulica PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6878
-#EXTINF:-1,Ale Kino+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/960
-#EXTINF:-1,Ale Kino+ HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6873
-#EXTINF:-1,Comedy Central FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10481
-#EXTINF:-1,Comedy Central PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4556
-#EXTINF:-1,Comedy Central Family PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4555
-#EXTINF:-1,Kino Polska PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4548
-#EXTINF:-1,Kino TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10457
-#EXTINF:-1,Paramount Channel FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4542
-#EXTINF:-1,SciFi Universal PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/849
-#EXTINF:-1,TNT FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/845
-#EXTINF:-1,TNT HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6427
-#EXTINF:-1,TNT PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/897
-#EXTINF:-1,AMC FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/21328
-#EXTINF:-1,AMC PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10483
-#EXTINF:-1,Active Family PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/962
-#EXTINF:-1,TVN Fabula FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/840
-#EXTINF:-1,Polsat Romans PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10446
-#EXTINF:-1,Romance FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4540
-#EXTINF:-1,TVP Seriale PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/882
-#EXTINF:-1,Eleven Sports 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/932
-#EXTINF:-1,Eleven Sports 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/931
-#EXTINF:-1,Eleven Sports 3 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/930
-#EXTINF:-1,Eleven Sports 4 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/929
-#EXTINF:-1,Canal+ Sport FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/944
-#EXTINF:-1,Canal+ Sport HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/945
-#EXTINF:-1,Canal+ Sport PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/946
-#EXTINF:-1,Canal+ Sport 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6871
-#EXTINF:-1,Canal+ Sport 2 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/950
-#EXTINF:-1,Extreme Sports FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/859
-#EXTINF:-1,Extreme Sports HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/12323
-#EXTINF:-1,Polsat Sport FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10443
-#EXTINF:-1,Polsat Sport Extra FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6435
-#EXTINF:-1,Polsat Sport Premium 1 FHD VIP PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16059
-#EXTINF:-1,Polsat Sport Premium 2 FHD VIP PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16060
-#EXTINF:-1,Polsat Sport Fight FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6434
-#EXTINF:-1,Fight Channel World HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6433
-#EXTINF:-1,Fight Network FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/901
-#EXTINF:-1,Fightbox FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/858
-#EXTINF:-1,Fightbox PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6877
-#EXTINF:-1,nSport HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/54963
-#EXTINF:-1,nSport+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/842
-#EXTINF:-1,Sport Klub FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4539
-#EXTINF:-1,TVP Sport FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10421
-#EXTINF:-1,Golf Channel FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10461
-#EXTINF:-1,Adventure FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/961
-#EXTINF:-1,Animal Planet FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/959
-#EXTINF:-1,BBC Brit FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/21327
-#EXTINF:-1,BBC Earth HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4560
-#EXTINF:-1,BBC HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4559
-#EXTINF:-1,Canal+ Dokument FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/939
-#EXTINF:-1,Crime Investigation Polsat FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/18821
-#EXTINF:-1,DTX FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/934
-#EXTINF:-1,DTX HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10476
-#EXTINF:-1,Da Vinci Learning PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/940
-#EXTINF:-1,Discovery Channel FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10478
-#EXTINF:-1,Discovery Channel HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10479
-#EXTINF:-1,Discovery Historia PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/938
-#EXTINF:-1,Discovery Life FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/937
-#EXTINF:-1,Discovery Life PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6874
-#EXTINF:-1,Discovery Science FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/936
-#EXTINF:-1,Fokus TV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4552
-#EXTINF:-1,History FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10460
-#EXTINF:-1,History PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/919
-#EXTINF:-1,History 2 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/857
-#EXTINF:-1,Investigation Discovery FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10458
-#EXTINF:-1,Investigation Discovery PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10459
-#EXTINF:-1,Nat Geo FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/852
-#EXTINF:-1,Nat Geo PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/914
-#EXTINF:-1,Nat Geo People FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/853
-#EXTINF:-1,Nat Geo Wild FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10453
-#EXTINF:-1,Nat Geo Wild PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/915
-#EXTINF:-1,Motorwizja PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/916
-#EXTINF:-1,Planete+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/913
-#EXTINF:-1,Planete+ PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6887
-#EXTINF:-1,Polsat Doku FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10449
-#EXTINF:-1,Polsat Viasat History FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10442
-#EXTINF:-1,Polsat Viasat Explore FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/903
-#EXTINF:-1,Polsat Viasat Nature FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6109
-#EXTINF:-1,TVN Turbo FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/888
-#EXTINF:-1,TVP Historia PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4536
-#EXTINF:-1,TheBlaze TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4046
-#EXTINF:-1,Travel Channel FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4538
-#EXTINF:-1,4Fun Dance PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10486
-#EXTINF:-1,4Fun Gold Hits PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10485
-#EXTINF:-1,4Fun TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4562
-#EXTINF:-1,ATM Rozrywka TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/958
-#EXTINF:-1,Disco Polo Music HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10488
-#EXTINF:-1,Disco Polo Music PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4554
-#EXTINF:-1,Eska TV Extra PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10471
-#EXTINF:-1,Eska TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10472
-#EXTINF:-1,Kino Polska Muzyka PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/918
-#EXTINF:-1,MTV Dance HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4534
-#EXTINF:-1,MTV Live FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10455
-#EXTINF:-1,MTV Polska FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10454
-#EXTINF:-1,MTV Polska PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4545
-#EXTINF:-1,Nuta.TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10451
-#EXTINF:-1,Polo TV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/912
-#EXTINF:-1,Polsat Music FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10447
-#EXTINF:-1,Power TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10441
-#EXTINF:-1,TVP Rozrywka PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/883
-#EXTINF:-1,VOX Music TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/873
-#EXTINF:-1,VH1 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10417
-#EXTINF:-1,Stars TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/848
-#EXTINF:-1,Trace Urban Muzik HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10434
-#EXTINF:-1,TVN 24 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/891
-#EXTINF:-1,TVN 24 BiS FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/887
-#EXTINF:-1,Polsat News 1 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/907
-#EXTINF:-1,Polsat News 2 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4541
-#EXTINF:-1,TVP Info FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10424
-#EXTINF:-1,Baby TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/24160
-#EXTINF:-1,Boomerang PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/843
-#EXTINF:-1,Cartoon Network FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/864
-#EXTINF:-1,Cbeebies PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4558
-#EXTINF:-1,Disney Channel FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/963
-#EXTINF:-1,Disney Junior PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/862
-#EXTINF:-1,Disney XD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/935
-#EXTINF:-1,MiniMini+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6436
-#EXTINF:-1,MiniMini+ HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/854
-#EXTINF:-1,Nick JR. PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4544
-#EXTINF:-1,Nickelodeon PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4543
-#EXTINF:-1,Polsat JimJam PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4549
-#EXTINF:-1,TVP ABC PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/886
-#EXTINF:-1,TeleToon+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/898
-#EXTINF:-1,TeleToon+ PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6883
-#EXTINF:-1,Kuchnia+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10456
-#EXTINF:-1,Kuchnia+ HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/917
-#EXTINF:-1,HGTV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6888
-#EXTINF:-1,HGTV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/920
-#EXTINF:-1,Food Network FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/19522
-#EXTINF:-1,TLC FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/846
-#EXTINF:-1,TLC PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6876
-#EXTINF:-1,TTV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10433
-#EXTINF:-1,Domo+ HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/7798
-#EXTINF:-1,E! FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/933
-#EXTINF:-1,Epic Drama FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10418
-#EXTINF:-1,Lifetime FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/855
-#EXTINF:-1,Lifetime HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10487
-#EXTINF:-1,Polsat Games FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/21792
-#EXTINF:-1,Polsat Play FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6428
-#EXTINF:-1,Polsat Rodzina FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/21793
-#EXTINF:-1,TVN Style FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10428
-#EXTINF:-1,METRO PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4546
-#EXTINF:-1,TVP Kultura FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/884
-#EXTINF:-1,TV Puls FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10431
-#EXTINF:-1,TV Puls HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/896
-#EXTINF:-1,Puls 2 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/902
-#EXTINF:-1,TV6 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6437
-#EXTINF:-1,TV6 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/893
-#EXTINF:-1,Nowa TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10452
-#EXTINF:-1,Stopklatka TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/900
-#EXTINF:-1,Sundance FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/847
-#EXTINF:-1,Super Polsat FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/899
-#EXTINF:-1,Superstacja FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10439
-#EXTINF:-1,TV Republika HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16004
-#EXTINF:-1,TV Republika PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/895
-#EXTINF:-1,TVP FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6426
-#EXTINF:-1,TVP Polonia PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10422
-#EXTINF:-1,TVS PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/881
-#EXTINF:-1,WP PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10413
-#EXTINF:-1,Zoom TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10411
-#EXTINF:-1,TV Trwam PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4537
-#EXTINF:-1,TVP 3 Białystok PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16053
-#EXTINF:-1,TVP 3 Bydgoszcz PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16054
-#EXTINF:-1,TVP 3 Gdańsk PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15876
-#EXTINF:-1,TVP 3 Katowice PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15877
-#EXTINF:-1,TVP 3 Kielce PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16052
-#EXTINF:-1,TVP 3 Kraków PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16048
-#EXTINF:-1,TVP 3 Lublin PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16055
-#EXTINF:-1,TVP 3 Olsztyn PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16056
-#EXTINF:-1,TVP 3 Opole PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16049
-#EXTINF:-1,TVP 3 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/838
-#EXTINF:-1,TVP 3 Poznań PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15878
-#EXTINF:-1,TVP 3 Rzeszów PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16057
-#EXTINF:-1,TVP 3 Szczecin PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15875
-#EXTINF:-1,TVP 3 Warszawa PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/10425
-#EXTINF:-1,TVP 3 Wrocław PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16050
-#EXTINF:-1,TVP 3 Łódź PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16051
-#EXTINF:-1,TV Kujawy PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/16006
-#EXTINF:-1,TV Toruń PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/21151
-#EXTINF:-1,TVT Zgorzelec PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/15318
-#EXTINF:-1,VOD 202 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/880
-#EXTINF:-1,VOD 204 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/874
-#EXTINF:-1,VOD 205 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/879
-#EXTINF:-1,VOD 206 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/878
-#EXTINF:-1,VOD 207 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/877
-#EXTINF:-1,VOD 208 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/876
-#EXTINF:-1,VOD 212 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/875
-#EXTINF:-1,KSW PPV (Match Time) PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/43690
-#EXTINF:-1,Canal+ Sport 3 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78187
-#EXTINF:-1,Canal+ Sport 3 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78188
-#EXTINF:-1,Canal+ Sport 4 HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78189
-#EXTINF:-1,Canal+ Sport 4 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78190
-#EXTINF:-1,Canal+ NOW FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78204
-#EXTINF:-1,Nicktoons HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/78600
-#EXTINF:-1,Eska Best Music PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79735
-#EXTINF:-1,BBC LIFESTYLE FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79819
-#EXTINF:-1,ESKA ROCK TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82750
-#EXTINF:-1,BBC FIRST FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/82812
-#EXTINF:-1,MTV ROCKS PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83523
-#EXTINF:-1,Fightklub FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83533
-#EXTINF:-1,Red Carpet FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83536
-#EXTINF:-1,TV Okazje PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83537
-#EXTINF:-1,WPolsce PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83538
-#EXTINF:-1,CANAL+ DOKUMENT HD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83539
-#EXTINF:-1,Boomerang FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83768
-#EXTINF:-1,CBS Reality FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83769
-#EXTINF:-1,BBC Earth FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83770
-#EXTINF:-1,Biznes24 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83771
-#EXTINF:-1,Kino TV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83772
-#EXTINF:-1,Kino Polska FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83773
-#EXTINF:-1,StudioMed TV FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83774
-#EXTINF:-1,SciFi FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83775
-#EXTINF:-1,TVR PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/83776
-#EXTINF:-1,AXN PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86595
-#EXTINF:-1,Canal+ Premium FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86596
-#EXTINF:-1,Polsat Comedy Central FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86597
-#EXTINF:-1,Disco Polo Music FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86598
-#EXTINF:-1,Domo+ FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86600
-#EXTINF:-1,Motowizja FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86602
-#EXTINF:-1,MTV Music 24 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86603
-#EXTINF:-1,Novela TV PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86604
-#EXTINF:-1,Polonia 1 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86605
-#EXTINF:-1,Polsat Cafe FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86606
-#EXTINF:-1,Polsat Comedy Central Extra FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86607
-#EXTINF:-1,Polsat Seriale FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86608
-#EXTINF:-1,Polsat Sport News FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86609
-#EXTINF:-1,Polsat Sport Premium PPV 3 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86610
-#EXTINF:-1,Polsat Sport Premium PPV 4 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86611
-#EXTINF:-1,Polsat Sport Premium PPV 5 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86612
-#EXTINF:-1,Polsat Sport Premium PPV 6 FHD PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86613
-#EXTINF:-1,TBN Poland PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86614
-#EXTINF:-1,Tele 5 PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86615
-#EXTINF:-1,TOP Kids PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86617
-#EXTINF:-1,Water Planet PL
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86618
+#EXTINF:-1,PL:ATM ROZRYWKA TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33527
+#EXTINF:-1,PL:CBS EUROPA HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33509
+#EXTINF:-1,PL:CBS REALITY HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33508
+#EXTINF:-1,PL:Comedy Central FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33505
+#EXTINF:-1,PL:E! FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33493
+#EXTINF:-1,PL:MOTORWIZJA
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33485
+#EXTINF:-1,PL:FOKUS TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33476
+#EXTINF:-1,PL:Polsat Cafe
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33473
+#EXTINF:-1,PL:HGTV FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33467
+#EXTINF:-1,PL:Polsat Romance
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33465
+#EXTINF:-1,PL:KINO TV FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33464
+#EXTINF:-1,PL:Kuchnia HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33463
+#EXTINF:-1,PL:Lifetime HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33462
+#EXTINF:-1,PL:Trace Urban
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33461
+#EXTINF:-1,PL:TVS
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33455
+#EXTINF:-1,PL:NOWA TV HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33448
+#EXTINF:-1,PL:POLSAT 2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33443
+#EXTINF:-1,PL:Polsat Doku HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33441
+#EXTINF:-1,PL:Polsat HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33440
+#EXTINF:-1,PL:Polsat Play FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33435
+#EXTINF:-1,PL:Polsat Sport Premium 4
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33434
+#EXTINF:-1,PL:SUPER POLSAT
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33417
+#EXTINF:-1,PL:Polsat Games
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33412
+#EXTINF:-1,PL:TTV FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33411
+#EXTINF:-1,PL:E! Entertainment
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33410
+#EXTINF:-1,PL:TV6
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33409
+#EXTINF:-1,PL:TVN 7 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33406
+#EXTINF:-1,PL:TVN Fabula FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33404
+#EXTINF:-1,PL:TVN FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33403
+#EXTINF:-1,PL:TVN Style FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33402
+#EXTINF:-1,PL:TVP 1 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33400
+#EXTINF:-1,PL:TVP 2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33399
+#EXTINF:-1,PL:TVP 3 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33398
+#EXTINF:-1,PL:TVP KULTURA HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33394
+#EXTINF:-1,PL:TVP Polonia HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33393
+#EXTINF:-1,PL:TVP ROZRYWKA
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33392
+#EXTINF:-1,PL:TVP SERIALE
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33391
+#EXTINF:-1,PL:BBC Brit HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33380
+#EXTINF:-1,PL:DOG TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33371
+#EXTINF:-1,PL:CBS Reality
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33370
+#EXTINF:-1,PL:Comedy Central Family
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33368
+#EXTINF:-1,PL:Kino Polska
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33349
+#EXTINF:-1,PL:SciFi Universal
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33347
+#EXTINF:-1,PL:Lifetime HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33346
+#EXTINF:-1,PL:Metro
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33345
+#EXTINF:-1,PL:Polsat Doku FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33336
+#EXTINF:-1,PL:POLSAT ROMANS HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33334
+#EXTINF:-1,PL:TV Puls FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33408
+#EXTINF:-1,PL:PULS 2
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33423
+#EXTINF:-1,PL:TV 4
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33348
+#EXTINF:-1,PL:13 Ulica FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33531
+#EXTINF:-1,PL:Ale Kino +
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33530
+#EXTINF:-1,PL:Canal+ Discovery HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33428
+#EXTINF:-1,PL:AXN Black HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33526
+#EXTINF:-1,PL:AXN HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33525
+#EXTINF:-1,PL:AXN SPIN HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33524
+#EXTINF:-1,PL:AXN White HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33523
+#EXTINF:-1,PL:CANAL  FAMILY FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33517
+#EXTINF:-1,PL:CANAL+ 1 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33516
+#EXTINF:-1,PL:CANAL  FILM FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33515
+#EXTINF:-1,PL:Canal  Seriale FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33514
+#EXTINF:-1,PL:CBS ACTION
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33510
+#EXTINF:-1,PL:CINEMAX 2 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33507
+#EXTINF:-1,PL:CINEMAX HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33506
+#EXTINF:-1,PL:Epic Drama
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33492
+#EXTINF:-1,PL:FILMBOX ACTION HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33481
+#EXTINF:-1,PL:Filmbox Arthouse
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33480
+#EXTINF:-1,PL:Filmbox Extra FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33479
+#EXTINF:-1,PL:FILMBOX FAMILY FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33478
+#EXTINF:-1,PL:FILMBOX PREMIUM HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33477
+#EXTINF:-1,PL:FOX Comedy FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33475
+#EXTINF:-1,PL:FOX FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33474
+#EXTINF:-1,PL:HBO 2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33470
+#EXTINF:-1,PL:HBO 3 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33469
+#EXTINF:-1,PL:HBO HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33468
+#EXTINF:-1,PL:Sci-Fi HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33422
+#EXTINF:-1,PL:Stop klatka TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33419
+#EXTINF:-1,PL:TNT FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33414
+#EXTINF:-1,PL:Nicktoons
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33389
+#EXTINF:-1,PL:13 Ulica HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33383
+#EXTINF:-1,PL:VOX MUSIC TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33378
+#EXTINF:-1,PL:AMC
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33377
+#EXTINF:-1,PL:Active Family
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33376
+#EXTINF:-1,PL:AXN SPIN HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33375
+#EXTINF:-1,PL:CBS Action
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33372
+#EXTINF:-1,PL:TV Torun
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33369
+#EXTINF:-1,PL:FOX HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33353
+#EXTINF:-1,PL:Paramount Channel FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33446
+#EXTINF:-1,PL:Paramount Channel HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33339
+#EXTINF:-1,PL:4Fun TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33529
+#EXTINF:-1,PL:STARS TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33458
+#EXTINF:-1,PL:TVP HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33450
+#EXTINF:-1,PL:Polo TV HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33444
+#EXTINF:-1,PL:Polsat Music HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33438
+#EXTINF:-1,PL:POWER TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33424
+#EXTINF:-1,PL:VH1
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33388
+#EXTINF:-1,PL:4Fun Dance
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33382
+#EXTINF:-1,PL:4Fun Gold Hits
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33381
+#EXTINF:-1,PL:TV Trwam
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33366
+#EXTINF:-1,PL:ESKA TV Extra
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33356
+#EXTINF:-1,PL:BBC FIRST
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33350
+#EXTINF:-1,PL:MTV Dance HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33343
+#EXTINF:-1,PL:MTV Polska HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33342
+#EXTINF:-1,PL:Polo TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33337
+#EXTINF:-1,PL:Polsat Music FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33335
+#EXTINF:-1,PL:Power TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33329
+#EXTINF:-1,PL:DISCO POLO MUSIC
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33503
+#EXTINF:-1,PL:Kino Polska Muzyka
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33454
+#EXTINF:-1,PL:CANAL+ SPORT FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33522
+#EXTINF:-1,PL:CANAL+ SPORT 2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33521
+#EXTINF:-1,PL:CANAL+ SPORT 3 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33520
+#EXTINF:-1,PL:CANAL+ SPORT 4 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33519
+#EXTINF:-1,PL:TV Kujawy
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33491
+#EXTINF:-1,PL:Eska TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33490
+#EXTINF:-1,PL:Eska ROCK TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33489
+#EXTINF:-1,PL:Polsat Sport Premium 1 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33488
+#EXTINF:-1,PL:Polsat Sport Premium 2 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33487
+#EXTINF:-1,PL:Polsat Sport Premium 3
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33486
+#EXTINF:-1,PL:Polsat Sport Premium 5
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33484
+#EXTINF:-1,PL:Polsat Sport Premium 6
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33483
+#EXTINF:-1,PL:Fightbox FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33482
+#EXTINF:-1,PL:Sundance TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33459
+#EXTINF:-1,PL:NSport Plus HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33447
+#EXTINF:-1,PL:Polsat Sport Extra FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33433
+#EXTINF:-1,PL:POLSAT Sport Fight FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33432
+#EXTINF:-1,PL:Polsat Sport HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33431
+#EXTINF:-1,PL:CANAL+ Premium
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33429
+#EXTINF:-1,PL:Eleven Extra
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33421
+#EXTINF:-1,PL:Sport Klub Polska FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33420
+#EXTINF:-1,PL:TVP Sport FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33390
+#EXTINF:-1,PL:Eleven Sports 1 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33360
+#EXTINF:-1,PL:Eleven Sports 2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33359
+#EXTINF:-1,PL:Eleven Sports 3 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33358
+#EXTINF:-1,PL:Eleven Sports 4 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33357
+#EXTINF:-1,PL:Golf Channel HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33352
+#EXTINF:-1,PL:Polsat Sport Fight HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33333
+#EXTINF:-1,PL:Food Network HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33374
+#EXTINF:-1,PL:KSW Fight  PPV (Live Matches  Only)
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33340
+#EXTINF:-1,PL:Nat Geo People HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33341
+#EXTINF:-1,PL:ANIMAL PLANET HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33528
+#EXTINF:-1,PL:BBC Earth HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33512
+#EXTINF:-1,PL:Extreme Sports
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33502
+#EXTINF:-1,PL:Discovery Historia
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33501
+#EXTINF:-1,PL:Discovery Life FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33500
+#EXTINF:-1,PL:Discovery Science FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33499
+#EXTINF:-1,PL:Discovery Turbo Xtra HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33498
+#EXTINF:-1,PL:Investigation Discovery HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33472
+#EXTINF:-1,PL:H2 HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33471
+#EXTINF:-1,PL:HISTORY CHANNEL HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33466
+#EXTINF:-1,PL:NAT GEO FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33453
+#EXTINF:-1,PL:NAT GEO PEOPLE HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33452
+#EXTINF:-1,PL:NAT GEO Wild HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33451
+#EXTINF:-1,PL:MTV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33445
+#EXTINF:-1,PL:Travel Channel
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33437
+#EXTINF:-1,PL:POLSAT Viasat Explore FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33427
+#EXTINF:-1,PL:Polsat Viasat History FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33426
+#EXTINF:-1,PL:Polsat Viasat Nature HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33425
+#EXTINF:-1,PL:TLC FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33415
+#EXTINF:-1,PL:TVN Turbo FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33401
+#EXTINF:-1,PL:TVP Historiy HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33396
+#EXTINF:-1,PL:BBC
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33385
+#EXTINF:-1,PL:ZOOM TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33384
+#EXTINF:-1,PL:ADVENTURE HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33379
+#EXTINF:-1,PL:Discovery Channel
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33365
+#EXTINF:-1,PL:Discovery Life HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33364
+#EXTINF:-1,PL:NUTA TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33361
+#EXTINF:-1,PL:FOKUS TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33354
+#EXTINF:-1,PL:H2 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33351
+#EXTINF:-1,PL:Planete  HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33338
+#EXTINF:-1,PL:Polsat Viasat Explore HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33332
+#EXTINF:-1,PL:Polsat Viasat History HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33331
+#EXTINF:-1,PL:Polsat Viasat Nature
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33330
+#EXTINF:-1,PL:Boomerang FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33518
+#EXTINF:-1,PL:Nickelodeon
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33513
+#EXTINF:-1,PL:CARTOON NETWORK HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33511
+#EXTINF:-1,PL:Da Vinci Learning
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33504
+#EXTINF:-1,PL:Disney Channel FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33497
+#EXTINF:-1,PL:Da Vinci
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33496
+#EXTINF:-1,PL:Disney XD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33495
+#EXTINF:-1,PL:DOMO  FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33494
+#EXTINF:-1,PL:MiniMini HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33460
+#EXTINF:-1,PL:Polsat Jim Jam
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33439
+#EXTINF:-1,PL:TeleToon+
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33416
+#EXTINF:-1,PL:TVP abc HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33397
+#EXTINF:-1,PL:Baby TV
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33387
+#EXTINF:-1,PL:BBC CBeebies
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33386
+#EXTINF:-1,PL:Cartoon Network HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33373
+#EXTINF:-1,PL:Da Vinci Learning
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33367
+#EXTINF:-1,PL:Disney Junior
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33363
+#EXTINF:-1,PL:Water Planet
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33362
+#EXTINF:-1,PL:MiniMini  HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33344
+#EXTINF:-1,PL:Nick JR
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33328
+#EXTINF:-1,PL:wPolsce.pl
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33449
+#EXTINF:-1,PL:Polsat News HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33436
+#EXTINF:-1,PL:Polsat Sport News HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33430
+#EXTINF:-1,PL:TVN 24 Bis
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33418
+#EXTINF:-1,PL:Polsat News 2
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33413
+#EXTINF:-1,PL:TV Republika HD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33407
+#EXTINF:-1,PL:TVN 24 FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33405
+#EXTINF:-1,PL:TVP Info FHD
+http://zyx01.oknirvana.club:8880/testzyx070/123456789/33395
